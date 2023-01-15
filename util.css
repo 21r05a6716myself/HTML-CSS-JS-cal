@@ -1,0 +1,20 @@
+.text-center{
+  text-align: center;
+}
+.row{
+  text-align: center;
+  padding:5px;
+}
+.button{
+  padding:20px;
+  border:2px solid black;
+  border-radius: 9px;
+  width:66px;
+}
+.input{
+  width:290px;
+  font-size: 20px;
+  padding: 10px 0px;
+  border:2px solid black;
+    border-radius: 9px;
+}
